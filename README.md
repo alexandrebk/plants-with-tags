@@ -3,7 +3,7 @@
 ## User Stories
 
 1. As a user, I can add a Tag for a Plant, when I'm in the Park show page
-2. As a user, I can see all tags for a plan, when I'm in the Park show page
+2. As a user, I can see all tags for a plant, when I'm in the Park show page
 
 ## PseudoCode
 
